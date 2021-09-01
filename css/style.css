@@ -1,0 +1,185 @@
+body {
+    background: #FFFFFF;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: #AE7C78;
+}
+
+ul {
+    list-style: none;
+}
+
+.menu-head a {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    align: Center;
+    text-decoration: none;
+    color: #AE7C78;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 59px;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+}
+
+.catalog-text {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.catalog-button {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    align: Center;
+    text-decoration: none;
+    color: #FFF;
+    background: #AE7C78;
+    padding: 30px 70px;
+}
+
+.features dt {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.features dd {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.slide .price {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+}
+
+.order-button {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    align: Center;
+    text-decoration: none;
+    color: #FFF;
+    background: #AE7C78;
+    padding: 30px 106px;
+    border-radius: 40px;
+    border: 0;
+}
+
+.catalog-categories div {
+    width: 387px;
+    height: 442px;
+    background: rgba(174, 124, 120, 0.6);
+    border-radius: 10px;
+}
+
+.catalog-categories dt {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    color: #FFF;
+}
+
+.catalog-categories dd {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    color: #FFF;
+}
+
+.promo {
+    background-color: #AE7C78;
+    color: #FFF;    
+
+}
+
+.promo h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 59px;
+    color: #FFF;
+}
+
+.steps h3 {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.social p {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+}
+
+.instagram {
+    /* display: none; */
+    background-image: url(files/instagram_icon.svg);
+    background-size: 20px;
+}
+
+.reviews {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.reviews cite {
+    font-weight: 500;
+    font-style: normal;
+}
+
+.contact-content {
+    font-weight: 500;
+    font-style: normal;    
+    color: #AE7C78;
+    text-decoration: none;
+}
+
+.page-footer {
+    background-color: #AE7C78;
+}
+
+.footer-menu a {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    align: Center;
+    text-decoration: none;
+    color: #FFF;
+}
